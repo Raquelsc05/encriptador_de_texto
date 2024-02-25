@@ -12,7 +12,7 @@ function criptografarTexto() {
 function descriptografarTexto() {
   const input_tela1 = document.getElementById('tela1').value
   if (verificarPalavraSimples(input_tela1)) {
-    alert('Por favor, digite apenas letras minisculas sem acentos')
+    alert('Por favor, digite apenas letras minúsculas e sem acento.')
     return
   }
 
