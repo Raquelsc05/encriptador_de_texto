@@ -9,3 +9,6 @@
 
 ## 📁 Acesso ao projeto
 Clique [aqui](https://encriptador-de-texto-three.vercel.app/)
+
+## Desafio
+ALURA + Oracle
